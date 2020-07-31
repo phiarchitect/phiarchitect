@@ -1,4 +1,5 @@
-### Hi there 👋
+# phi ARCHITECT
+## exploring the architecture of all that is
 
 <!--
 **phi-architect/phi-architect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
