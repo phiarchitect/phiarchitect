@@ -2,7 +2,8 @@
 ## structure • logic • style
 Greetings!
 
-be sure top check out 
+Most of my work here on Github is divided into these organizations
+
 - [GEOMETOR](https://github.com/geometor) project
     - exploring the architecture of all that is
 - [PHOTON](https://github.com/photon-platform) platform
