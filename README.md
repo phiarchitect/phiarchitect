@@ -12,6 +12,9 @@ be sure top check out
     - code for good vibrations
 
 
+[![Twitter: phi_architect](https://img.shields.io/twitter/follow/phi_architect?style=social)](https://twitter.com/phi_architect)
+[![Linkedin: phiarchitect](https://img.shields.io/badge/-phiarchitect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phiarchitect/)](https://www.linkedin.com/in/phiarchitect/)
+[![GitHub phiarchitect](https://img.shields.io/github/followers/phiarchitect?label=follow&style=social)](https://github.com/phiarchitect)
 
 <!--
 **phi-architect/phi-architect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
