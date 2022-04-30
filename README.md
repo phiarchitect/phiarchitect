@@ -17,6 +17,10 @@ be sure top check out
 [![GitHub phiarchitect](https://img.shields.io/github/followers/phiarchitect?label=follow&style=social)](https://github.com/phiarchitect)
 
 [![Youtube: phiarchitect](https://img.shields.io/youtube/channel/subscribers/UCYzRQS16EBmsbKuyKMFHSFQ?label=phi%20ARCHITECT&style=social)](https://www.youtube.com/channel/UCYzRQS16EBmsbKuyKMFHSFQ)
+
+[![Youtube: GEOMETOR](https://img.shields.io/youtube/channel/subscribers/UCHw7yqZJDQ0A6WkAlxGKLeg?label=GEOMETOR&style=social)](https://www.youtube.com/channel/UCHw7yqZJDQ0A6WkAlxGKLeg)
+
+
 <!--
 **phi-architect/phi-architect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
