@@ -1,6 +1,5 @@
 # phi ARCHITECT
-## exploring the architecture of all that is
-
+## structure • logic • style
 Greetings!
 
 be sure top check out 
