@@ -5,11 +5,11 @@ Greetings!
 
 be sure top check out 
 - [GEOMETOR](https://github.com/geometor) project
-    exploring the architecture of all that is
+    - exploring the architecture of all that is
 - [PHOTON](https://github.com/photon-platform) platform
-    tools for capturing, developing and publishing knowledge
+    - tools for capturing, developing and publishing knowledge
 - [HARMONIC](https://github.com/harmonic-resonance) resonance
-    code for good vibrations
+    - code for good vibrations
 
 
 
