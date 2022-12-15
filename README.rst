@@ -4,12 +4,15 @@ Most of my work here on Github is divided into these organizations
 
 - GEOMETOR_
     - exploring the architecture of all that is
-- [PHOTON](https://github.com/photon-platform) platform
+- PHOTON_ platform
     - tools for capturing, developing and publishing knowledge
+HARMONIC_ resonance
 - [HARMONIC](https://github.com/harmonic-resonance) resonance
     - code for good vibrations
 
-|youtube|
+
+.. sidebar:: CONNECT
+   |youtube|
 
 
 
@@ -25,3 +28,5 @@ Most of my work here on Github is divided into these organizations
    :target: https://www.youtube.com/channel/UCYzRQS16EBmsbKuyKMFHSFQ
 
 .. _GEOMETOR: https://github.com/geometor
+.. _PHOTON: https://github.com/photon-platform
+.. _HARMONIC: https://github.com/harmonic-resonance
