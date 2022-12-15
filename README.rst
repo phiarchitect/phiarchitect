@@ -1,3 +1,4 @@
+<div style="float: right">test</div>
 Greetings!
 
 Most of my work here on Github is divided into these organizations
@@ -10,11 +11,7 @@ Most of my work here on Github is divided into these organizations
     - code for good vibrations
 
 
-|youtube|
-
-.. sidebar:: CONNECT
-   check out more here:
-   |youtube|
+|yt_phi|
 
 
 .. [![Twitter: phi_architect](https://img.shields.io/twitter/follow/phi_architect?style=social)](https://twitter.com/phi_architect)
@@ -25,8 +22,9 @@ Most of my work here on Github is divided into these organizations
 .. [![Youtube: GEOMETOR](https://img.shields.io/youtube/channel/subscribers/UCHw7yqZJDQ0A6WkAlxGKLeg?label=GEOMETOR&style=social)](https://www.youtube.com/channel/UCHw7yqZJDQ0A6WkAlxGKLeg)
 
 
-.. |youtube| image:: https://img.shields.io/youtube/channel/subscribers/UCYzRQS16EBmsbKuyKMFHSFQ?label=phi%20ARCHITECT&style=social
-   :target: https://www.youtube.com/channel/@phiarchitect
+.. |yt_phi| image:: https://img.shields.io/youtube/channel/subscribers/UCYzRQS16EBmsbKuyKMFHSFQ?label=phi%20ARCHITECT&style=social
+   :target: https://www.youtube.com/@phiarchitect
+   :alt: phi ARCHITECT youtube
 
 .. _GEOMETOR: https://github.com/geometor
 .. _PHOTON: https://github.com/photon-platform
