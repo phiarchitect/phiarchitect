@@ -1,4 +1,3 @@
-<div style="float: right">test</div>
 Greetings!
 
 Most of my work here on Github is divided into these organizations
