@@ -1,3 +1,7 @@
+.. sidebar:: CONNECT
+   check out more here:
+   |youtube|
+   
 Greetings!
 
 Most of my work here on Github is divided into these organizations
@@ -12,9 +16,7 @@ Most of my work here on Github is divided into these organizations
 
 |youtube|
 
-.. sidebar:: CONNECT
-   check out more here:
-   |youtube|
+
 
 
 .. [![Twitter: phi_architect](https://img.shields.io/twitter/follow/phi_architect?style=social)](https://twitter.com/phi_architect)
