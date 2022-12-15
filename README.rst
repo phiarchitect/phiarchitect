@@ -3,11 +3,11 @@ Greetings!
 Most of my work here on Github is divided into these organizations
 
 + GEOMETOR_
-  + exploring the architecture of all that is
+    - exploring the architecture of all that is
 + PHOTON_ platform
-  + tools for capturing, developing and publishing knowledge
+    - tools for capturing, developing and publishing knowledge
 + HARMONIC_ resonance
-  + code for good vibrations
+    - code for good vibrations
 
 
 |youtube|
