@@ -9,7 +9,13 @@ Most of my work here on Github is divided into these organizations
 | |yt_phi|
 | |twitter|
 
-
+-a            command-line option "a"
+-b file       options can have arguments
+              and long descriptions
+--long        options can be long also
+--input=file  long options can also have
+              arguments
+/V            DOS/VMS-style options too
 
 
 .. [![Linkedin: phiarchitect](https://img.shields.io/badge/-phiarchitect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phiarchitect/)](https://www.linkedin.com/in/phiarchitect/)
