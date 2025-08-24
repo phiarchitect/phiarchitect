@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11in"
+   height="8.5in"
+   viewBox="0 0 1056 816"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="phi-works.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="in"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-nodes="false"
+     inkscape:zoom="5.8162999"
+     inkscape:cx="263.31173"
+     inkscape:cy="233.13791"
+     inkscape:window-width="1904"
+     inkscape:window-height="995"
+     inkscape:window-x="8"
+     inkscape:window-y="808"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="312.20024,606.40763"
+       orientation="0,-1"
+       id="guide16522" />
+    <sodipodi:guide
+       position="291.30124,583.35376"
+       orientation="0,-1"
+       id="guide16524" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke:#44e0cc;stroke-width:0.377953;stroke-dasharray:9.07087, 9.07087;stroke-dashoffset:2.49449"
+       id="rect16714"
+       width="378.75693"
+       height="217.27242"
+       x="65.371559"
+       y="124.72765"
+       sodipodi:insensitive="true" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="170.81239"
+       y="231.6958"
+       id="text9098"><tspan
+         sodipodi:role="line"
+         id="tspan9096"
+         x="170.81239"
+         y="231.6958">phi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed, Normal';font-variant-ligatures:normal;font-variant-caps:all-small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="255.13474"
+       y="232.44836"
+       id="text13986"><tspan
+         sodipodi:role="line"
+         id="tspan13984"
+         x="255.13474"
+         y="232.44836">WORKS</tspan></text>
+    <g
+       id="g17548"
+       transform="matrix(0.94802612,0,0,0.94802612,12.310359,10.895983)">
+      <circle
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:0.0377953, 0.0377953;stroke-dashoffset:2.49449"
+         id="path16548"
+         cx="236.85661"
+         cy="221.90074"
+         r="12.067992" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:0.0377953, 0.0377953;stroke-dashoffset:2.49449"
+         id="path17346"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="236.85667"
+         sodipodi:cy="-221.89813"
+         sodipodi:r1="10.748106"
+         sodipodi:r2="9.3081322"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-1.0471976"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 236.85667,-232.64624 9.30814,5.37405 0,10.74811 -9.30814,5.37405 -9.30813,-5.37405 0,-10.74811 z"
+         transform="scale(1,-1)" />
+    </g>
+  </g>
+</svg>
